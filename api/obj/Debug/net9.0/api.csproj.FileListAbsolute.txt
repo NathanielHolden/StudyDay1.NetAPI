@@ -157,3 +157,7 @@ C:\repos\StudyDay Projects\Web APIs\StudyDay1.NetAPI\api\obj\Debug\net9.0\refint
 C:\repos\StudyDay Projects\Web APIs\StudyDay1.NetAPI\api\obj\Debug\net9.0\api.pdb
 C:\repos\StudyDay Projects\Web APIs\StudyDay1.NetAPI\api\obj\Debug\net9.0\api.genruntimeconfig.cache
 C:\repos\StudyDay Projects\Web APIs\StudyDay1.NetAPI\api\obj\Debug\net9.0\ref\api.dll
+C:\repos\StudyDay Projects\Web APIs\StudyDay1.NetAPI\api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\repos\StudyDay Projects\Web APIs\StudyDay1.NetAPI\api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\repos\StudyDay Projects\Web APIs\StudyDay1.NetAPI\api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\repos\StudyDay Projects\Web APIs\StudyDay1.NetAPI\api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
